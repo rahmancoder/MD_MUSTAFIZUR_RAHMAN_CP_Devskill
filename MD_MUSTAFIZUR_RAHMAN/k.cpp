@@ -17,7 +17,9 @@ int main()
 
 
    for(int i=0; i<32;i++){
-       if(((number1 >> i)& 1) ==(number2 >> i) & 1)
+    //    if(((number1 >> i)& 1) ==(number2 >> i) & 1)
+    //    if(((number1 >> i)& 1) !=(number2 >> i) & 1)
+      if(((number1 >> i)& 1) & (number2 >> i) & 1)
        {
            count++;
        }
