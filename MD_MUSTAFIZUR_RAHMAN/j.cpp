@@ -7,14 +7,14 @@ using namespace std;
 
 int main() 
 {
-   char operator;
+   char operation;
 
    double number1, number2;
-   cin>>operator;
-   cin>number1;
+   cin>>operation;
+   cin>>number1;
    cin>>number2;
 
-   switch (operator)
+   switch (operation)
    { 
        case '+':
        cout<<number1+number2;
@@ -33,7 +33,7 @@ int main()
        break;
 
        default:
-       cout<<"operator incorrect";
+       cout<<"operation incorrect";
 
 
 
