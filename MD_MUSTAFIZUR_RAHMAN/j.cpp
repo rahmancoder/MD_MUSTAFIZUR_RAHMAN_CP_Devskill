@@ -7,6 +7,9 @@ using namespace std;
 
 int main() 
 {
+    
+//    char operation='+';
+//    double number1=5.5, number2=11.1; 
    char operation;
 
    double number1, number2;

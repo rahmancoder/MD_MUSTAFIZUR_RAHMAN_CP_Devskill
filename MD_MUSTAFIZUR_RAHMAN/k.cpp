@@ -8,8 +8,8 @@ using namespace std;
 
 int main() 
 {
-   
-
+   // int number1=3, number2=10; // set bit is 1
+  // int number1=5, number2=10; // no set bits, zero
    int number1, number2;
    int count=0;
    cin>>number1;
