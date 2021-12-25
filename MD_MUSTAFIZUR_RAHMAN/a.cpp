@@ -1,12 +1,19 @@
 // MD MUSTAFIZUR RAHMAN
 
 #include <stdio.h>
+#include <iostream>
+using namespace std;
 
 int main(){
 
-printf("Name: MD MUSTAFIZUR RAHMAN");
-printf("Age: 22");
-printf("Hobby: Programming");
+// printf("Name: MD MUSTAFIZUR RAHMAN \n");
+// printf("Age: 22 \n");
+// printf("Hobby: Programming\n");
 
-    return 0;
+
+ cout<< "Name: MD MUSTAFIZUR RAHMAN \n";
+ cout<< "Age: 22 \n";
+ cout<< "Hobby: Programming \n";
+
+ return 0;
 }
