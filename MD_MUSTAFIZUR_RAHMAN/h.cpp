@@ -7,6 +7,8 @@ using namespace std;
 int  main() 
 {
  
+//  int marks=102;
+//  int marks=-6;
  int marks;
  cin>>marks;
 

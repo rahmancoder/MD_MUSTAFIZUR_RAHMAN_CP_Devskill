@@ -7,6 +7,8 @@ using namespace std;
 
 int main() 
 {
+   // DD MM YY ===Format
+//    int day=30, month=02, year=2001;
    int day, month, year;
 
    cin>>day;

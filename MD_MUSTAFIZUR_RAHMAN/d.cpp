@@ -6,6 +6,8 @@ using namespace std;
 
 int main() 
 {
+  //int number=14;
+  //int number=35;
   int number;
 
   cin>>number;

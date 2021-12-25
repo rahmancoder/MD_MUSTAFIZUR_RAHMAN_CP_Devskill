@@ -7,15 +7,17 @@ using namespace std;
 
 int main() 
 {
-  string str ="17:35";
+  string str ="23:15";
+    //  string str;
+    //  cin>>str;
 
-  // "17:35"
-  //  01234 =index value, length=5
+   // "23:15"
+   //  01234 =index value, length=5
 
   int  hour1=(int)str[0]- '0';
   int  hour2=(int)str[1] - '0';
 
-  int result=hour1 * 10 +h2;
+  int result=hour1 * 10 +hour2;
 
   string Meridien;
 

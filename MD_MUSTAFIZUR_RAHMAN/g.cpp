@@ -8,6 +8,8 @@ using namespace std;
 
 int main() 
 {
+  // int number=15;
+  // int number=5;
   int number;
 
   cin>>number;

@@ -7,9 +7,11 @@ using namespace std;
 
 int main() 
 {
-    int number=7, square;
+    // int number=7;
+    int number, square;
+
+    cin>>number;
     
-    // cin>>number;
     square=number*number;
     cout<<square;
     return 0;
